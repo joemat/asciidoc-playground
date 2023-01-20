@@ -2,9 +2,10 @@
 
 * This is just a test
 
-```java
+[source:java]
+---
   public void main(String[] args) {
     System.exit(1);
   }
- 
- ```
+  
+---
