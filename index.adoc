@@ -1,11 +1,14 @@
-== asciidoc-playground
+include::header.adoc[]
+
+
+== Home
 
 * This is just a test
 
-[source:java]
----
+[source,java]
+----
   public void main(String[] args) {
     System.exit(1);
   }
   
----
+----

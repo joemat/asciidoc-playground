@@ -6,4 +6,4 @@
 
 // switch to toc style
 [id=toc]
-link:index.html#home[HOME] link:code.html#code[CODE] 
+link:index.html#home[HOME] link:code.html#code[CODE]
